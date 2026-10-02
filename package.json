@@ -1,0 +1,16 @@
+{
+  "name": "duck-egg-detective",
+  "private": true,
+  "version": "1.0.0",
+  "description": "ภารกิจนักสืบไข่เป็ดปริศนา: คำผิด คำถูกต้อง — เกมฝึกสะกดคำภาษาไทย ป.5",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:lan": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
